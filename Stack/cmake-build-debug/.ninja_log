@@ -1,0 +1,14 @@
+# ninja log v6
+2	124	7482570385627242	CMakeFiles/Stack.dir/SeqStack.c.obj	d7bccb8a1a975bee
+3	238	7482570604658289	build.ninja	c7080efa622f0b59
+4	139	7482570604983927	Stack.exe	74110eff5b8737b9
+4	124	7482570828729122	CMakeFiles/Stack.dir/SeqStack.c.obj	d7bccb8a1a975bee
+125	249	7482570829925860	Stack.exe	74110eff5b8737b9
+4	121	7482571066654424	CMakeFiles/Stack.dir/SeqStack.c.obj	d7bccb8a1a975bee
+122	244	7482571067833814	Stack.exe	74110eff5b8737b9
+4	120	7482572666463257	CMakeFiles/Stack.dir/SeqStack.c.obj	d7bccb8a1a975bee
+120	241	7482572667631214	Stack.exe	74110eff5b8737b9
+4	127	7482573860622705	CMakeFiles/Stack.dir/SeqStack.c.obj	d7bccb8a1a975bee
+128	263	7482573861862352	Stack.exe	74110eff5b8737b9
+4	120	7482574518145909	CMakeFiles/Stack.dir/SeqStack.c.obj	d7bccb8a1a975bee
+121	241	7482574519310237	Stack.exe	74110eff5b8737b9
